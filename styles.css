@@ -1,0 +1,49 @@
+#links {
+    text-align: right;
+    font-size: 20px;
+    padding: 10px;
+}
+
+#form {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 100px;
+    flex-direction: column;
+    width: 600px;
+}
+
+#text-input {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    border-width: 1px;
+    padding: 5px;
+}
+
+#submit-button {
+    width: 100px;
+    margin: auto;
+    padding: 5px;
+}
+
+#advanced-form {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    width: 300px;
+    padding: 25px;
+}
+
+#advanced-submit-button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-style: hidden;
+}
+
+.flags {
+    width: 600px;
+    margin-top: 10px;
+    padding: 5px;
+}
